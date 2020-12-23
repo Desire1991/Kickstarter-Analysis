@@ -1,5 +1,4 @@
 # Kickstarter-Analysis 
-Kickstarter_Challenge.xlsx.zip
 ## Overview of Project
 After Louise finds out that her play Fever came close to its fundraising goal in short amount of time. Now she wants to work on two things: outcomes based on goals and outcomes based on launch date and finally she wants also to visualize her campaign outcomes based their launch dates and their funding goals using the “Outcomes_vs_Goals.png” and “Theater Outcomes by Launch Date”
 ### Purpose
